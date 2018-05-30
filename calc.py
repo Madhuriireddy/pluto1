@@ -1,4 +1,4 @@
-define addition
-pass
-define substraction
-pass
+define addition(x.y)
+return x + y
+define substraction(x,y)
+return x + y
